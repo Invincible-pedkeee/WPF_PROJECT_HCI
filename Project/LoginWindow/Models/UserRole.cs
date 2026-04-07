@@ -8,7 +8,7 @@ namespace BasketballBallBrandsCMS.Models
 {
     public enum  UserRole
     {
-        Admin,
-        Visitor
+        Visitor,
+        Admin
     }
 }

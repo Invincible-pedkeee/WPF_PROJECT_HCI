@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Users>
+	<User>
+		<Username>admin</Username>
+		<Password>admin123</Password>
+		<Role>ADMIN</Role>
+	</User>
+
+	<User>
+		<Username>pelemaradona</Username>
+		<Password>peroperic2004</Password>
+		<Role>VISITOR</Role>
+	</User>
+</Users>

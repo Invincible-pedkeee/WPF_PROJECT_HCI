@@ -1,4 +1,5 @@
 ﻿using BasketballBallBrandsCMS.Helpers;
+using BasketballBallBrandsCMS.Models;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -18,11 +19,13 @@ namespace LoginWindow
     /// </summary>
     public partial class MainWindow : Window
     {
-        public MainWindow()
+        private User loggedUser;
+        public MainWindow(User user)
         {
             InitializeComponent();
             AppPaths.EnsureDirectoriesExist();
-           // MessageBox.Show(AppPaths.ResourcesFolder);
+            // MessageBox.Show(AppPaths.ResourcesFolder);
+            loggedUser = user;
         }
 
         private void Window_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)

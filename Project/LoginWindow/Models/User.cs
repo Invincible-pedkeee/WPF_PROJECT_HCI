@@ -12,7 +12,7 @@ namespace BasketballBallBrandsCMS.Models
 
         public User()
         {
-            //prazan konstruktor zbog desirilizacije
+        
         }
 
         public string Username { get; set;}

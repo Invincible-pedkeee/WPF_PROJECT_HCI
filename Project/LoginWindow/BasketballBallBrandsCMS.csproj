@@ -8,4 +8,22 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Data\basketballBallBrands.xml" />
+    <None Remove="Data\users.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Data\basketballBallBrands.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\users.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\rtf\" />
+  </ItemGroup>
+
 </Project>

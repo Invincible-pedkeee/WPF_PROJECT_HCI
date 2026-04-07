@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace LoginWindow
+namespace BasketballBallBrandsCMS
 {
     /// <summary>
     /// Interaction logic for App.xaml
