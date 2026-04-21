@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBasketballBallBrand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BasketballBallBrand>
+    <Id>1</Id>
+    <BrandName>Wilson</BrandName>
+    <ImagePath>Resources\Images\Wilson.png</ImagePath>
+    <RtfPath>Resources\Rtf\brand_1_20260417181438.rtf</RtfPath>
+    <DateAdded>2026-04-17T09:08:56.2274591Z</DateAdded>
+  </BasketballBallBrand>
+  <BasketballBallBrand>
+    <Id>4</Id>
+    <BrandName>Spalding</BrandName>
+    <ImagePath>Resources\Images\Spadling.png</ImagePath>
+    <RtfPath>Resources\Rtf\brand_4_20260417192423.rtf</RtfPath>
+    <DateAdded>2026-04-17T16:16:00.8074848Z</DateAdded>
+  </BasketballBallBrand>
+</ArrayOfBasketballBallBrand>

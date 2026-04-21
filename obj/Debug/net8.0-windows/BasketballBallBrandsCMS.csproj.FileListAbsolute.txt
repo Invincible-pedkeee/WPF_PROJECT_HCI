@@ -1,0 +1,52 @@
+C:\Users\Admin\Desktop\projectssada\bin\Debug\net8.0-windows\BasketballBallBrandsCMS.exe
+C:\Users\Admin\Desktop\projectssada\bin\Debug\net8.0-windows\BasketballBallBrandsCMS.deps.json
+C:\Users\Admin\Desktop\projectssada\bin\Debug\net8.0-windows\BasketballBallBrandsCMS.runtimeconfig.json
+C:\Users\Admin\Desktop\projectssada\bin\Debug\net8.0-windows\BasketballBallBrandsCMS.dll
+C:\Users\Admin\Desktop\projectssada\bin\Debug\net8.0-windows\BasketballBallBrandsCMS.pdb
+C:\Users\Admin\Desktop\projectssada\obj\Debug\net8.0-windows\Views\AddEditBrandWindow.baml
+C:\Users\Admin\Desktop\projectssada\obj\Debug\net8.0-windows\Views\BrandDetailsWindow.baml
+C:\Users\Admin\Desktop\projectssada\obj\Debug\net8.0-windows\Views\LoginWindow.baml
+C:\Users\Admin\Desktop\projectssada\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\Admin\Desktop\projectssada\obj\Debug\net8.0-windows\App.baml
+C:\Users\Admin\Desktop\projectssada\obj\Debug\net8.0-windows\Views\AddEditBrandWindow.g.cs
+C:\Users\Admin\Desktop\projectssada\obj\Debug\net8.0-windows\Views\BrandDetailsWindow.g.cs
+C:\Users\Admin\Desktop\projectssada\obj\Debug\net8.0-windows\Views\LoginWindow.g.cs
+C:\Users\Admin\Desktop\projectssada\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\Admin\Desktop\projectssada\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Admin\Desktop\projectssada\obj\Debug\net8.0-windows\BasketballBallBrandsCMS_MarkupCompile.cache
+C:\Users\Admin\Desktop\projectssada\obj\Debug\net8.0-windows\BasketballBallBrandsCMS.g.resources
+C:\Users\Admin\Desktop\projectssada\obj\Debug\net8.0-windows\BasketballBallBrandsCMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\projectssada\obj\Debug\net8.0-windows\BasketballBallBrandsCMS.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\projectssada\obj\Debug\net8.0-windows\BasketballBallBrandsCMS.AssemblyInfo.cs
+C:\Users\Admin\Desktop\projectssada\obj\Debug\net8.0-windows\BasketballBallBrandsCMS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\projectssada\obj\Debug\net8.0-windows\BasketballBallBrandsCMS.dll
+C:\Users\Admin\Desktop\projectssada\obj\Debug\net8.0-windows\refint\BasketballBallBrandsCMS.dll
+C:\Users\Admin\Desktop\projectssada\obj\Debug\net8.0-windows\BasketballBallBrandsCMS.pdb
+C:\Users\Admin\Desktop\projectssada\obj\Debug\net8.0-windows\BasketballBallBrandsCMS.genruntimeconfig.cache
+C:\Users\Admin\Desktop\projectssada\obj\Debug\net8.0-windows\ref\BasketballBallBrandsCMS.dll
+C:\Users\Pavle Stefanovic\Desktop\projectssada\bin\Debug\net8.0-windows\BasketballBallBrandsCMS.exe
+C:\Users\Pavle Stefanovic\Desktop\projectssada\bin\Debug\net8.0-windows\BasketballBallBrandsCMS.deps.json
+C:\Users\Pavle Stefanovic\Desktop\projectssada\bin\Debug\net8.0-windows\BasketballBallBrandsCMS.runtimeconfig.json
+C:\Users\Pavle Stefanovic\Desktop\projectssada\bin\Debug\net8.0-windows\BasketballBallBrandsCMS.dll
+C:\Users\Pavle Stefanovic\Desktop\projectssada\bin\Debug\net8.0-windows\BasketballBallBrandsCMS.pdb
+C:\Users\Pavle Stefanovic\Desktop\projectssada\obj\Debug\net8.0-windows\Views\AddEditBrandWindow.baml
+C:\Users\Pavle Stefanovic\Desktop\projectssada\obj\Debug\net8.0-windows\Views\BrandDetailsWindow.baml
+C:\Users\Pavle Stefanovic\Desktop\projectssada\obj\Debug\net8.0-windows\Views\LoginWindow.baml
+C:\Users\Pavle Stefanovic\Desktop\projectssada\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\Pavle Stefanovic\Desktop\projectssada\obj\Debug\net8.0-windows\App.baml
+C:\Users\Pavle Stefanovic\Desktop\projectssada\obj\Debug\net8.0-windows\Views\AddEditBrandWindow.g.cs
+C:\Users\Pavle Stefanovic\Desktop\projectssada\obj\Debug\net8.0-windows\Views\BrandDetailsWindow.g.cs
+C:\Users\Pavle Stefanovic\Desktop\projectssada\obj\Debug\net8.0-windows\Views\LoginWindow.g.cs
+C:\Users\Pavle Stefanovic\Desktop\projectssada\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\Pavle Stefanovic\Desktop\projectssada\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Pavle Stefanovic\Desktop\projectssada\obj\Debug\net8.0-windows\BasketballBallBrandsCMS_MarkupCompile.cache
+C:\Users\Pavle Stefanovic\Desktop\projectssada\obj\Debug\net8.0-windows\BasketballBallBrandsCMS.g.resources
+C:\Users\Pavle Stefanovic\Desktop\projectssada\obj\Debug\net8.0-windows\BasketballBallBrandsCMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavle Stefanovic\Desktop\projectssada\obj\Debug\net8.0-windows\BasketballBallBrandsCMS.AssemblyInfoInputs.cache
+C:\Users\Pavle Stefanovic\Desktop\projectssada\obj\Debug\net8.0-windows\BasketballBallBrandsCMS.AssemblyInfo.cs
+C:\Users\Pavle Stefanovic\Desktop\projectssada\obj\Debug\net8.0-windows\BasketballBallBrandsCMS.csproj.CoreCompileInputs.cache
+C:\Users\Pavle Stefanovic\Desktop\projectssada\obj\Debug\net8.0-windows\BasketballBallBrandsCMS.dll
+C:\Users\Pavle Stefanovic\Desktop\projectssada\obj\Debug\net8.0-windows\refint\BasketballBallBrandsCMS.dll
+C:\Users\Pavle Stefanovic\Desktop\projectssada\obj\Debug\net8.0-windows\BasketballBallBrandsCMS.pdb
+C:\Users\Pavle Stefanovic\Desktop\projectssada\obj\Debug\net8.0-windows\BasketballBallBrandsCMS.genruntimeconfig.cache
+C:\Users\Pavle Stefanovic\Desktop\projectssada\obj\Debug\net8.0-windows\ref\BasketballBallBrandsCMS.dll
